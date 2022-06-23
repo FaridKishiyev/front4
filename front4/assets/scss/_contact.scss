@@ -1,0 +1,19 @@
+#contact{
+    background-color: #F2F2F4;
+    .form-elements{
+        
+        background-color: #ED6436;
+        .form{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        input, select, button{
+            width: 70%;
+            margin-top: 20px;
+        }
+    }
+    .form-items{
+        
+    }
+}
